@@ -40,7 +40,7 @@ You must have administrator rights to run **Rename-NetLbfoTeam**.
 
 ### Example 1: Rename a team
 ```
-PS C:\> Rename -NetLbfoTeam -Name "Team1" -NewName "TeamA"
+PS C:\> Rename-NetLbfoTeam -Name "Team1" -NewName "TeamA"
 ```
 
 This command renames the team named Team1 to TeamA.
